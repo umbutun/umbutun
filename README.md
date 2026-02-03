@@ -40,9 +40,9 @@ Currently deepening my ML expertise through hands-on practice while seeking **Da
 | Project | Description |
 |---------|-------------|
 | [🤖 Hands-On ML Practice](https://github.com/umbutun/hands-on-machine-learning-practice) | Comprehensive notebooks following Géron's book — regression, classification, neural networks, deep learning |
-| [🏠 Real Estate Price Predictor](https://github.com/umbutun/real-estate-price-predictor) | End-to-end ML project: data cleaning → feature engineering → model selection → deployment |
-| [🐍 Python 100 Days of Code](https://github.com/umbutun/python-100-days-of-code) | 36 Python projects — games, GUIs, APIs, automation |
-| [📊 Statistical Learning (M.Sc.)](https://github.com/BU-IE-582/fall19-umbutun) | Graduate ML coursework: forecasting, classification, Bayesian networks |
+| [🏠&nbsp;Real&nbsp;Estate&nbsp;Price&nbsp;Predictor](https://github.com/umbutun/real-estate-price-predictor) | End-to-end ML project: data cleaning → feature engineering → model selection → deployment |
+| [🐍&nbsp;Python&nbsp;100&nbsp;Days&nbsp;of&nbsp;Code](https://github.com/umbutun/python-100-days-of-code) | 36 Python projects — games, GUIs, APIs, automation |
+| [📊&nbsp;Statistical&nbsp;Learning&nbsp;(M.Sc.)](https://github.com/BU-IE-582/fall19-umbutun) | Graduate ML coursework: forecasting, classification, Bayesian networks |
 
 ---
 
